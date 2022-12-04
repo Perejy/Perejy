@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Perejy
 - 👀 I'm interested in Artificial Intelligence, cybersecurity, video games development and computer vision.
-- 🌱 I’m currently learning the university of Málaga.
+- 🌱 I’m currently learning at Málaga university.
 
 <!---
 Perejy/Perejy is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
