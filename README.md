@@ -1,5 +1,5 @@
 # 💫 About Me:
-👋 Hi there! I'm @Perejy.<br><br>
+👋 Hi there! I'm Antonio Gómez, also known as **@Perejy**.<br><br>
 🎓 Graduated in Computer Engineering (specialisation in Computing) from the University of Málaga.<br><br>
 💻 Currently working as a **Backend Web Developer**, mainly building applications with the **.NET framework**.<br><br>
 👀 Passionate about **Artificial Intelligence, Video Game Development, and Computer Vision**.<br><br>
