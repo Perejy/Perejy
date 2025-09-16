@@ -7,7 +7,7 @@
 
 ## 🌐 Socials:
 
-🔗 Connect with me on [LinkedIn]([https://www.linkedin.com/in/tu-usuario](https://www.linkedin.com/in/antonio-gomez-guzman/)).
+🔗 Connect with me on [LinkedIn](https://www.linkedin.com/in/tu-usuario](https://www.linkedin.com/in/antonio-gomez-guzman/).
 
 # 💻 Tech Stack:
 ![.NET](https://img.shields.io/badge/.NET-512BD4?style=plastic&logo=dotnet&logoColor=white)
